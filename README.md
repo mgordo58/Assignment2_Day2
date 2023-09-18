@@ -1,1 +1,1 @@
-# Assignment2_Day2
+# Assignment2 Day2 Exercise
